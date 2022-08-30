@@ -568,10 +568,6 @@ video {
     min-height: 100%;
   }
 
-  .sm\:flex-col {
-    flex-direction: column;
-  }
-
   .sm\:items-center {
     align-items: center;
   }
